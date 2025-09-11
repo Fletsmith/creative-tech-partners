@@ -12,7 +12,7 @@ export default function FooterSection() {
               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
                 <Brain className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">Alex Chen</span>
+              <span className="text-xl font-bold">Frank Dofour</span>
             </div>
             <p className="text-muted-foreground leading-relaxed max-w-md">
               Helping tech startups and agencies turn innovative ideas into measurable results 
@@ -58,7 +58,7 @@ export default function FooterSection() {
         <div className="border-t border-border/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-muted-foreground text-sm">
-              © 2024 Alex Chen. All rights reserved.
+              © 2024 Frank Dofour. All rights reserved.
             </p>
             
             <div className="flex items-center gap-1 text-sm text-muted-foreground">
