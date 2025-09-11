@@ -15,11 +15,11 @@ export default function ContactSection() {
             Let's Connect
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Build Something <span className="text-primary">Amazing?</span>
+            Let's Brainstorm Your <span className="text-primary">Next Big Idea</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Whether you're looking for a technical partner, consultant, or team member, 
-            I'd love to hear about your project and explore how we can work together.
+            Ready to turn innovative technology into business growth? Whether you need a strategic partner, 
+            technical catalyst, or collaborative team member, I'd love to explore how we can create something extraordinary together.
           </p>
         </div>
         

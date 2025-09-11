@@ -12,10 +12,10 @@ export default function AboutSection() {
             About Me
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Where Passion Meets <span className="text-primary">Purpose</span>
+            Why I Do <span className="text-primary">What I Do</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            I'm a tech consultant who bridges the gap between cutting-edge innovation and real business impact.
+            I'm a catalyst who helps teams turn technology into competitive advantage and measurable business growth.
           </p>
         </div>
         
@@ -23,14 +23,14 @@ export default function AboutSection() {
           <div className="space-y-6">
             <h3 className="text-3xl font-semibold mb-4">My Journey</h3>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              With a passion for both technology and entrepreneurship, I've spent years helping organizations 
-              harness the power of AI and digital innovation. My unique background combines deep technical 
-              expertise with strategic marketing insight.
+              Starting as a digital marketing professional, I discovered my passion for bridging business strategy 
+              with emerging technology. This curiosity led me to become an entrepreneur who helps teams harness 
+              AI and modern web technologies to solve real business challenges.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I believe that the best solutions come from understanding both the technical possibilities 
-              and the human needs behind every project. Whether it's implementing AI workflows or 
-              crafting growth strategies, I focus on delivering measurable outcomes.
+              I don't just fit into teams—I elevate them. My approach combines strategic marketing insight with 
+              technical implementation, focusing on solutions that drive measurable growth and competitive advantage. 
+              Every project is an opportunity to turn innovative ideas into business impact.
             </p>
             
             <div className="pt-6">
@@ -38,15 +38,15 @@ export default function AboutSection() {
               <div className="space-y-3">
                 <div className="flex items-start gap-3">
                   <div className="w-2 h-2 bg-primary rounded-full mt-2.5 flex-shrink-0" />
-                  <span className="text-muted-foreground">Solving complex problems with elegant, scalable solutions</span>
+                  <span className="text-muted-foreground">Turning cutting-edge AI into practical business solutions</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <div className="w-2 h-2 bg-primary rounded-full mt-2.5 flex-shrink-0" />
-                  <span className="text-muted-foreground">Building meaningful partnerships with forward-thinking teams</span>
+                  <span className="text-muted-foreground">Collaborating with visionary teams who believe technology can change everything</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <div className="w-2 h-2 bg-primary rounded-full mt-2.5 flex-shrink-0" />
-                  <span className="text-muted-foreground">Creating technology that makes a real difference</span>
+                  <span className="text-muted-foreground">Creating measurable impact that fuels sustainable growth</span>
                 </div>
               </div>
             </div>
@@ -60,10 +60,10 @@ export default function AboutSection() {
                     <Lightbulb className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <h4 className="text-xl font-semibold mb-2">Innovation Mindset</h4>
+                    <h4 className="text-xl font-semibold mb-2">Approachable Futurist</h4>
                     <p className="text-muted-foreground">
-                      Always exploring the latest AI tools and technologies to find creative solutions 
-                      that give my clients a competitive edge.
+                      I stay at the forefront of AI and emerging technologies, but always ground innovations 
+                      in human-first solutions that teams can actually implement and scale.
                     </p>
                   </div>
                 </div>
@@ -77,10 +77,10 @@ export default function AboutSection() {
                     <Target className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <h4 className="text-xl font-semibold mb-2">Results-Driven</h4>
+                    <h4 className="text-xl font-semibold mb-2">Collaborative Catalyst</h4>
                     <p className="text-muted-foreground">
-                      Every project is measured by its impact. I focus on delivering tangible ROI 
-                      through data-driven strategies and proven methodologies.
+                      I don't just deliver projects—I elevate entire teams. Every collaboration focuses on 
+                      partnership over solo achievement, creating lasting impact that extends beyond individual initiatives.
                     </p>
                   </div>
                 </div>

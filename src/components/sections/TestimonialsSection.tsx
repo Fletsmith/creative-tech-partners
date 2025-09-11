@@ -9,7 +9,7 @@ const testimonials = [
     role: "CTO, TechFlow",
     company: "Series A Startup",
     rating: 5,
-    content: "Alex transformed our customer support with an AI system that handles 70% of our tickets automatically. The ROI was immediate and the implementation was flawless.",
+    content: "Frank transformed our customer support with an AI system that handles 70% of our tickets automatically. The ROI was immediate and the implementation was flawless.",
     avatar: "SC",
     highlight: "70% automation achieved"
   },
@@ -18,7 +18,7 @@ const testimonials = [
     role: "Head of Growth",
     company: "Digital Agency",
     rating: 5,
-    content: "Working with Alex on our growth dashboard was game-changing. User retention increased by 45% within two months. His technical and strategic insights are exceptional.",
+    content: "Working with Frank on our growth dashboard was game-changing. User retention increased by 45% within two months. His technical and strategic insights are exceptional.",
     avatar: "MR",
     highlight: "45% retention increase"
   },
@@ -27,7 +27,7 @@ const testimonials = [
     role: "Marketing Director",
     company: "E-commerce Platform",
     rating: 5,
-    content: "Alex's marketing automation system generated 300% more qualified leads while cutting our costs in half. He truly understands how to blend technology with marketing strategy.",
+    content: "Frank's marketing automation system generated 300% more qualified leads while cutting our costs in half. He truly understands how to blend technology with marketing strategy.",
     avatar: "EW",
     highlight: "300% lead increase"
   }

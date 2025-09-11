@@ -18,23 +18,23 @@ export default function HeroSection() {
         </Badge>
         
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent leading-tight">
-          Turning Innovation Into 
-          <span className="block">Measurable Results</span>
+          Turning AI & Creativity Into 
+          <span className="block">Business Growth</span>
         </h1>
         
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-          I help tech startups and digital agencies leverage AI tools, modern web technologies, 
-          and data-driven marketing to accelerate growth and solve complex business challenges.
+          I help innovators at tech startups and digital agencies blend cutting-edge AI with strategic marketing 
+          to solve real business challenges and drive measurable growth.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
           <Button variant="hero" size="lg" className="group">
-            View My Work
+            Explore My Work
             <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" />
           </Button>
           
           <Button variant="outline" size="lg" className="bg-background/80 backdrop-blur-sm">
-            Let's Collaborate
+            Let's Build Together
           </Button>
         </div>
         
